@@ -1,2 +1,2 @@
 # Cara-E-commerce-website
-https://i-ecara.netlify.app/
+https://i-ecara.netlify.app
